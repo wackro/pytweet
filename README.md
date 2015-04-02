@@ -5,6 +5,9 @@ it's written in python 3.4
 
 # dependencies
 tweepy (pip install tweepy)
+
 pycrypto (pip install pycrypto)
+
 urllib3 (pip install urllib3)
+
 maybe some other things, i wrote this a while ago.
