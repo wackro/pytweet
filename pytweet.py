@@ -121,8 +121,8 @@ def main():
         else:
             t.tweet(sys.argv[1])
     except Exception as e:
-            print(e)
-            traceback.print_stack()
+        print(e)
+        traceback.print_stack()
 		
 if __name__ == "__main__":
     main()
